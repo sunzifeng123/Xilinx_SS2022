@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="fir.h" path="E:\FPGA_project\xilinx\summerschool2022\SummerSchool2022-main\Lab1_FIR\src\fir.h"/>
+    <originFiles name="fir.cpp" path="E:\FPGA_project\xilinx\summerschool2022\SummerSchool2022-main\Lab1_FIR\src\fir.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="fir_tb.cpp" path="E:\FPGA_project\xilinx\summerschool2022\SummerSchool2022-main\Lab1_FIR\src\fir_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
